@@ -9,9 +9,9 @@
 
 # Exibir informações
 echo "🌎 Cloud Providers: Azure"
-echo "🛠️ Ferramentas: "Azure DevOps" "Terraform"
+echo "🛠️ Ferramentas: Azure DevOps Terraform"
 echo "📊 Monitoramento: "
-echo "🎓 Certificações: "AZ-900: Azure Fundamentals", "Cisco: Networking Basics"
+echo "🎓 Certificações: AZ-900: Azure Fundamentals, Cisco: Networking Basics"
 
 # Desafio Atual
 echo "🚀 Desafio Atual: Aprimorar práticas DevSecOps e concluir a certificação AZ-400"
