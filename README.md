@@ -9,7 +9,7 @@
 
 # Exibir informações
 echo "🌎 Cloud Providers: Azure"
-echo "🛠️ Ferramentas: Azure DevOps Terraform"
+echo "🛠️ Ferramentas: Azure DevOps, Terraform"
 echo "📊 Monitoramento: "
 echo "🎓 Certificações: AZ-900: Azure Fundamentals, Cisco: Networking Basics"
 
