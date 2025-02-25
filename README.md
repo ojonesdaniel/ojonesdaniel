@@ -19,5 +19,7 @@ echo "🚀 Desafio Atual: Aprimorar práticas DevSecOps e concluir a certificaç
 
 # Conexões
 echo "🔗 Conecte-se comigo:"
+
 echo "💼 LinkedIn: [https://www.linkedin.com/in/daniel-jones-ba8aa0254/]"
+
 echo "📂 GitHub: [https://github.com/ojonesdaniel]"
